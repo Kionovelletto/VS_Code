@@ -1,0 +1,13 @@
+## Minha cfg para utilizar Python no linux.
+
+{
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    
+    "redhat.telemetry.enabled": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "explorer.compactFolders": false,
+    "workbench.iconTheme": "material-icon-theme"
+    "python.defaultInterpreterPath": "python"
+}
