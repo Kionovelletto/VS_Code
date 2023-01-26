@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path.linux": "/home/kio/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vscode-kubernetes.kubectl-path.linux": "/home/kio/.local/state/vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path.linux": "/home/kio/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube"
+    },
+    "redhat.telemetry.enabled": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "explorer.compactFolders": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "python"
+}
