@@ -14,5 +14,7 @@
     "explorer.compactFolders": false,
     "workbench.iconTheme": "material-icon-theme",
     "python.defaultInterpreterPath": "python",
-    "editor.glyphMargin": true
+    "editor.glyphMargin": true,
+    "git.confirmSync": false,
+    "git-graph.showStatusBarItem": true
 }
